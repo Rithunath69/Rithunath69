@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-🌟 I am a dedicated BTech student with a strong passion for coding and a knack for problem-solving. I am constantly exploring new technologies and frameworks to enhance my skill set and contribute to innovative projects.
+🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in exploring the latest technologies and innovations in the tech industry.
 
-💻 I have a solid foundation in computer science principles and have worked on various projects ranging from web development to data structures and algorithms.
+💻 I am currently pursuing my BTech degree and have a keen interest in full-stack development, particularly in web technologies.
 
-🔭 Currently, I am focusing on mastering full-stack development and exploring the realms of artificial intelligence and machine learning.
+🔭 I am actively involved in open-source projects and contribute to various hackathons to enhance my skills and collaborate with like-minded individuals.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -31,9 +31,7 @@
 ## 🚀 My Projects
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
-- A simple tic-tac-toe game built using React and TypeScript.
-- Implemented game logic and state management.
-- Enhanced user experience with responsive design.
+A simple tic-tac-toe game built using React and TypeScript.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -45,9 +43,7 @@
 ---
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
-- Personal portfolio showcasing my projects and skills.
-- Built using React and TypeScript.
-- Includes a resume, project portfolio, and contact information.
+My personal profile showcasing my projects and contributions.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -59,9 +55,7 @@
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-- A simple to-do application built with React and TypeScript.
-- Features include adding, editing, and deleting tasks.
-- Implemented state management and user interface design.
+A simple to-do list application built using React and TypeScript.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
