@@ -10,15 +10,15 @@
 
 ## 👨‍💻 About Me
 
-🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in software development. I thrive on challenges and enjoy exploring new technologies and frameworks. My goal is to contribute to innovative projects and make a significant impact in the tech industry.
+🌟 I am a BTech student with a strong passion for coding and a keen interest in software development. I enjoy exploring new technologies and contributing to open-source projects.
 
-💻 I have a solid foundation in various programming languages and frameworks, and I am always eager to learn and adapt to new tools and methodologies.
+💻 I have experience in various programming languages and frameworks, including React, TypeScript, Node.js, Express, MongoDB, Python, JavaScript, and Java. I am always eager to learn and adapt to new tools and technologies.
 
-🔭 I am currently working on enhancing my skills in full-stack development and contributing to open-source projects.
+🔭 I am currently working on improving my skills in full-stack development and contributing to innovative tech projects.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
-📫 How to reach me: [](mailto:Rithunath69@gmail.com)
+📫 How to reach me: [Rithunath69@gmail.com](mailto:Rithunath69@gmail.com)
 
 ---
 
@@ -32,8 +32,8 @@
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
 - A simple tic-tac-toe game built using React and TypeScript.
-- Implements game logic and user interface to provide an engaging experience.
-- Demonstrates proficiency in front-end development and TypeScript.
+- Implements game logic and user interface for an interactive gaming experience.
+- Demonstrates the use of modern web technologies and best practices in coding.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -45,9 +45,9 @@
 ---
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
-- Personal portfolio showcasing my projects and skills.
-- Includes detailed descriptions of my projects and a resume.
-- Designed to provide visitors with an overview of my professional journey.
+- My personal portfolio showcasing my projects and skills.
+- Built using React and TypeScript to demonstrate my front-end development capabilities.
+- Includes a responsive design and interactive components.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -59,9 +59,9 @@
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-- A to-do application built with React and TypeScript.
-- Features include task creation, editing, and deletion with persistent storage.
-- Demonstrates my ability to build interactive web applications.
+- A to-do list application built using React and TypeScript.
+- Features include adding, editing, and deleting tasks, with a clean and intuitive user interface.
+- Demonstrates the use of state management and component-based architecture.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
@@ -75,7 +75,7 @@
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rithunath69&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Rithunath69&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@
   <a href="https://www.linkedin.com/in/rithunath69/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/Rithunath69" target="_blank">
+  <a href="https://twitter.com/rithunath69" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/rithunath69/" target="_blank">
