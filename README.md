@@ -1,20 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=Im%20a%20Experienced%20QA%20Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=I'm%20Strong%20Ai%20Developer" />
 </h1>
 
 <h3 align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2prZzQ1MXJoaXc4am0yODg5dnhxdWN5ZTZmdjM1bWNxc2JtNjdmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width="500">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NiOGViaXk1eTlkZjQxNTljdDQ3cjdzdzhsc2Zwb3plZ2dibWZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="500">
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🌟 Experienced QA Engineer with a strong background in software testing and quality assurance. Proficient in various testing methodologies and tools, ensuring high-quality software delivery. Passionate about continuous improvement and staying updated with the latest industry trends.
+🌟 I am a passionate AI developer with a strong background in machine learning, natural language processing, and computer vision. My expertise lies in creating intelligent systems that can learn and adapt to new data, making them more efficient and accurate over time.
 
-💻 Skilled in manual and automated testing, test case design, and bug tracking. Adept at collaborating with cross-functional teams to identify and resolve issues efficiently.
+💻 I have hands-on experience with various AI frameworks and libraries such as TensorFlow, PyTorch, and Keras. I am proficient in programming languages like Python, Java, and JavaScript, enabling me to develop robust and scalable AI solutions.
 
-🔭 Currently focused on enhancing my skills in AI-driven testing and performance testing. Always eager to learn and adapt to new technologies to improve testing processes.
+🔭 I am currently working on projects that focus on improving AI-driven decision-making processes in healthcare, finance, and autonomous systems. I am always eager to take on new challenges and collaborate on innovative tech ideas.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -31,9 +31,9 @@
 ## 🚀 My Projects
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
-- A simple tic-tac-toe game built using React and TypeScript.
-- Implemented game logic and state management using React hooks.
-- Enhanced user experience with responsive design and smooth animations.
+🎮 A simple tic-tac-toe game developed using React and TypeScript.
+🚀 Enhances front-end development skills and TypeScript integration.
+📈 Demonstrates the use of state management and component-based architecture.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -45,9 +45,9 @@
 ---
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
-- Personal portfolio showcasing my projects and skills.
-- Built using React and TypeScript for a dynamic and responsive user interface.
-- Integrated with GitHub API to display project details and statistics.
+📊 Personal profile showcasing my projects and contributions.
+🌐 A platform to demonstrate my skills and experience in AI development.
+🔗 Connect with me to explore my work and get in touch for collaborations.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -59,9 +59,9 @@
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-- A simple to-do application built with React and TypeScript.
-- Implemented CRUD operations for managing tasks.
-- Enhanced user experience with intuitive design and real-time updates.
+📋 A simple Todo application built with React and TypeScript.
+🛠️ Enhances my skills in state management and form handling.
+🔄 Demonstrates the use of TypeScript for type-safe development.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
