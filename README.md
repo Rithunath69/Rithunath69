@@ -1,3 +1,5 @@
+# Rithunath69
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=BTech%20student%20with%20passion%20for%20coding" />
 </h1>
@@ -10,15 +12,15 @@
 
 ## 👨‍💻 About Me
 
-🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in software development. I enjoy solving complex problems and continuously expanding my knowledge in various programming languages and technologies.
+🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in technology. I am constantly seeking opportunities to learn and grow in the field of software development.
 
-💻 I have experience working on a variety of projects, from web development to data analysis, and I am always eager to take on new challenges. My goal is to contribute to innovative solutions that make a positive impact.
+💻 I have a solid foundation in various programming languages and technologies, and I enjoy working on projects that challenge me to expand my skill set.
 
-🔭 Currently, I am exploring the field of machine learning and artificial intelligence, and I am excited to see where my journey takes me.
+🔭 Currently, I am exploring new technologies and frameworks to enhance my development capabilities. I am open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
-📫 How to reach me: [](mailto:)
+📫 How to reach me: [Rithunath69@gmail.com](mailto:Rithunath69@gmail.com)
 
 ---
 
@@ -32,8 +34,8 @@
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
 - A simple tic-tac-toe game built using React and TypeScript.
-- Implements game logic and user interface in a clean and efficient manner.
-- Enhances understanding of state management and component-based architecture.
+- Implemented game logic to ensure smooth gameplay.
+- Utilized TypeScript for type safety and better code maintainability.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -45,9 +47,9 @@
 ---
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
-- My personal profile repository showcasing my projects and contributions.
-- Includes a detailed README with information about my skills and experience.
-- Serves as a portfolio to demonstrate my development capabilities.
+- Personal profile repository showcasing my projects and contributions.
+- Includes a detailed README with information about my skills and experiences.
+- Regularly updated with new projects and improvements.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -59,9 +61,9 @@
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-- A simple to-do application built with React and TypeScript.
-- Allows users to add, edit, and delete tasks with a clean and intuitive interface.
-- Demonstrates the use of state management and component-based architecture.
+- A to-do application built with React and TypeScript.
+- Features include adding, editing, and deleting tasks.
+- Implemented state management for efficient task handling.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
@@ -75,8 +77,7 @@
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rithunath69&theme=radical)
-" />
+  <img src="https://streak-stats.demolab.com/?user=Rithunath69&theme=radical" />
 </p>
 
 <p align="center">
@@ -101,16 +102,16 @@
   <a href="https://github.com/Rithunath69" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/rithunath69/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://twitter.com/rithunath69" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/rithunath69/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:Rithunath69" target="_blank">
+  <a href="mailto:Rithunath69@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
