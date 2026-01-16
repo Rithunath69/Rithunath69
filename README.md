@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in software development.
+🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in software development. I enjoy solving complex problems and continuously expanding my knowledge in various programming languages and technologies.
 
-💻 I am currently exploring various technologies and frameworks to enhance my skill set and contribute to innovative projects.
+💻 I have experience working on a variety of projects, from web development to data analysis, and I am always eager to take on new challenges. My goal is to contribute to innovative solutions that make a positive impact.
 
-🔭 I am actively seeking opportunities to collaborate on open-source projects, participate in hackathons, and work on cutting-edge tech ideas.
+🔭 Currently, I am exploring the field of machine learning and artificial intelligence, and I am excited to see where my journey takes me.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -32,8 +32,8 @@
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
 - A simple tic-tac-toe game built using React and TypeScript.
-- Implemented game logic and user interface for an engaging user experience.
-- Utilized state management to keep track of game progress and win conditions.
+- Implements game logic and user interface in a clean and efficient manner.
+- Enhances understanding of state management and component-based architecture.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -46,8 +46,8 @@
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
 - My personal profile repository showcasing my projects and contributions.
-- Includes a detailed README with information about my skills and experiences.
-- Regularly updated with new projects and achievements.
+- Includes a detailed README with information about my skills and experience.
+- Serves as a portfolio to demonstrate my development capabilities.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -59,9 +59,9 @@
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-- A to-do list application built with React and TypeScript.
-- Features include adding, editing, and deleting tasks with real-time updates.
-- Implemented using modern web development practices and tools.
+- A simple to-do application built with React and TypeScript.
+- Allows users to add, edit, and delete tasks with a clean and intuitive interface.
+- Demonstrates the use of state management and component-based architecture.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
@@ -74,7 +74,10 @@
 
 ## 🏆 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rithunath69=radical)
+<p align="center">
+  <img src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rithunath69&theme=radical)
+" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rithunath69&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
