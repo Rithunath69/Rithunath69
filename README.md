@@ -1,20 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=Full%20stack%20developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=Im%20a%20Experienced%20QA%20Engineer" />
 </h1>
 
 <h3 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW83ZjU5Z2dhMjZ6aW14M2w2cW43aDFpdW4zM3k5YjNqaWhkZXJobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="500">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2prZzQ1MXJoaXc4am0yODg5dnhxdWN5ZTZmdjM1bWNxc2JtNjdmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width="500">
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🌟 I am a passionate full-stack developer with a strong background in both front-end and back-end technologies. I enjoy building robust, scalable, and user-friendly applications. My expertise lies in creating seamless user experiences and efficient server-side logic. I am always eager to learn new technologies and collaborate on innovative projects.
+🌟 Experienced QA Engineer with a strong background in software testing and quality assurance. Proficient in various testing methodologies and tools, ensuring high-quality software delivery. Passionate about continuous improvement and staying updated with the latest industry trends.
 
-💻 I have experience working with a variety of programming languages and frameworks, including JavaScript, TypeScript, React, Node.js, Express, MongoDB, Python, Java, PostgreSQL, HTML, CSS, Git, GitHub, and Docker. This diverse skill set allows me to tackle complex problems and deliver high-quality solutions.
+💻 Skilled in manual and automated testing, test case design, and bug tracking. Adept at collaborating with cross-functional teams to identify and resolve issues efficiently.
 
-🔭 I am currently working on enhancing my skills in cloud computing and machine learning to stay ahead in the ever-evolving tech landscape.
+🔭 Currently focused on enhancing my skills in AI-driven testing and performance testing. Always eager to learn and adapt to new technologies to improve testing processes.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -31,7 +31,9 @@
 ## 🚀 My Projects
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
-A simple tic-tac-toe game built using React and TypeScript, demonstrating my ability to create interactive and responsive web applications.
+- A simple tic-tac-toe game built using React and TypeScript.
+- Implemented game logic and state management using React hooks.
+- Enhanced user experience with responsive design and smooth animations.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -43,7 +45,9 @@ A simple tic-tac-toe game built using React and TypeScript, demonstrating my abi
 ---
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
-My personal profile repository showcasing my projects and contributions to the open-source community. This repository serves as a portfolio of my work and skills.
+- Personal portfolio showcasing my projects and skills.
+- Built using React and TypeScript for a dynamic and responsive user interface.
+- Integrated with GitHub API to display project details and statistics.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -55,7 +59,9 @@ My personal profile repository showcasing my projects and contributions to the o
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-A to-do application built with React and TypeScript, demonstrating my ability to create dynamic and interactive web applications. This project includes features like task management, user authentication, and real-time updates.
+- A simple to-do application built with React and TypeScript.
+- Implemented CRUD operations for managing tasks.
+- Enhanced user experience with intuitive design and real-time updates.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
