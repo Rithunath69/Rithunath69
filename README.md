@@ -1,20 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=I'm%20Strong%20Ai%20Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=BTech%20Student%20With%20Ambitions" />
 </h1>
 
 <h3 align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NiOGViaXk1eTlkZjQxNTljdDQ3cjdzdzhsc2Zwb3plZ2dibWZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMyb2FjNDFoMnUwOWNia3J5YjZvdjc2bThmcWNvZW13dTV1amo2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NfkMAioqnkf7q4LBqA/giphy.gif" width="500">
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🌟 I am a passionate AI developer with a strong background in machine learning, natural language processing, and computer vision. My expertise lies in creating intelligent systems that can learn and adapt to new data, making them more efficient and accurate over time.
+🌟 I am a passionate BTech student with a strong foundation in computer science and a keen interest in software development and technology.
 
-💻 I have hands-on experience with various AI frameworks and libraries such as TensorFlow, PyTorch, and Keras. I am proficient in programming languages like Python, Java, and JavaScript, enabling me to develop robust and scalable AI solutions.
+💻 I am currently pursuing my BTech degree in Computer Science and Engineering, where I have gained a solid understanding of various programming languages, data structures, algorithms, and software development principles.
 
-🔭 I am currently working on projects that focus on improving AI-driven decision-making processes in healthcare, finance, and autonomous systems. I am always eager to take on new challenges and collaborate on innovative tech ideas.
+🔭 I am actively seeking opportunities to apply my technical skills in real-world projects and contribute to innovative solutions.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -31,9 +31,9 @@
 ## 🚀 My Projects
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
-🎮 A simple tic-tac-toe game developed using React and TypeScript.
-🚀 Enhances front-end development skills and TypeScript integration.
-📈 Demonstrates the use of state management and component-based architecture.
+- A simple tic-tac-toe game developed using React and TypeScript.
+- Implements game logic and user interface to provide an engaging experience.
+- Demonstrates the use of modern web technologies for front-end development.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -45,9 +45,9 @@
 ---
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
-📊 Personal profile showcasing my projects and contributions.
-🌐 A platform to demonstrate my skills and experience in AI development.
-🔗 Connect with me to explore my work and get in touch for collaborations.
+- My personal GitHub profile showcasing my projects and contributions.
+- Includes a variety of projects developed using different technologies.
+- Serves as a portfolio to demonstrate my skills and experience in software development.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -59,9 +59,9 @@
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-📋 A simple Todo application built with React and TypeScript.
-🛠️ Enhances my skills in state management and form handling.
-🔄 Demonstrates the use of TypeScript for type-safe development.
+- A todo application built using React and TypeScript.
+- Features a user-friendly interface for managing tasks.
+- Demonstrates the use of modern web technologies for building interactive applications.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
