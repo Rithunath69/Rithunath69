@@ -3,18 +3,18 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW83ZjU5Z2dhMjZ6aW14M2w2cW43aDFpdW4zM3k5YjNqaWhkZXJobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="500">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHllNnJ1cXh6dGNpaGVvOHZlazNqYW14NDI2bnhydjd3MTRvdWZieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="500">
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🌟 I am a passionate full-stack developer with a strong background in both front-end and back-end technologies. I have a knack for creating efficient, scalable, and user-friendly solutions. My journey in the tech world has equipped me with a diverse skill set, allowing me to tackle complex problems with innovative solutions.
+🌟 I am a passionate full-stack developer with a strong foundation in both front-end and back-end technologies. I have a knack for solving complex problems and creating efficient, scalable, and user-friendly solutions. My experience includes developing web applications, RESTful APIs, and database management systems.
 
-💻 I am proficient in a variety of programming languages and frameworks, including JavaScript, TypeScript, Python, Java, and more. I have hands-on experience with databases like MongoDB, PostgreSQL, and have worked with tools like Git, Docker, and various cloud platforms.
+💻 I have hands-on experience with a variety of technologies including React, TypeScript, Node.js, Express, MongoDB, Python, Java, PostgreSQL, HTML, CSS, Git, GitHub, and Docker. I am always eager to learn new technologies and tools to enhance my skill set.
 
-🔭 I am always eager to learn and explore new technologies. I am particularly interested in the intersection of AI and web development, and I enjoy working on projects that push the boundaries of what's possible.
+🔭 I am currently working on several projects that involve building robust and scalable web applications. I am also actively involved in open-source contributions and hackathons to stay updated with the latest trends and technologies in the industry.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -31,9 +31,7 @@
 ## 🚀 My Projects
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
-- A simple tic-tac-toe game built using React and TypeScript.
-- Implemented state management and component structure for a responsive UI.
-- Utilized TypeScript for type safety and better code maintainability.
+A simple tic-tac-toe game built using React and TypeScript.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -45,9 +43,7 @@
 ---
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
-- A personal portfolio showcasing my projects and skills.
-- Built using React and TypeScript for a dynamic and responsive user experience.
-- Integrated various APIs to fetch and display data dynamically.
+My personal profile showcasing my projects and contributions.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -59,9 +55,7 @@
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-- A simple to-do application built with React and TypeScript.
-- Implemented CRUD operations for managing tasks.
-- Utilized local storage for persistence and TypeScript for type safety.
+A simple to-do application built using React and TypeScript.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
