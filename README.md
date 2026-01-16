@@ -10,15 +10,15 @@
 
 ## 👨‍💻 About Me
 
-🌟 I am a BTech student with a strong passion for coding and a keen interest in software development. I enjoy exploring new technologies and contributing to open-source projects.
+🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in software development.
 
-💻 I have experience in various programming languages and frameworks, including React, TypeScript, Node.js, Express, MongoDB, Python, JavaScript, and Java. I am always eager to learn and adapt to new tools and technologies.
+💻 I am currently exploring various technologies and frameworks to enhance my skill set and contribute to innovative projects.
 
-🔭 I am currently working on improving my skills in full-stack development and contributing to innovative tech projects.
+🔭 I am actively seeking opportunities to collaborate on open-source projects, participate in hackathons, and work on cutting-edge tech ideas.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
-📫 How to reach me: [Rithunath69@gmail.com](mailto:Rithunath69@gmail.com)
+📫 How to reach me: [](mailto:)
 
 ---
 
@@ -32,8 +32,8 @@
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
 - A simple tic-tac-toe game built using React and TypeScript.
-- Implements game logic and user interface for an interactive gaming experience.
-- Demonstrates the use of modern web technologies and best practices in coding.
+- Implemented game logic and user interface for an engaging user experience.
+- Utilized state management to keep track of game progress and win conditions.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -45,9 +45,9 @@
 ---
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
-- My personal portfolio showcasing my projects and skills.
-- Built using React and TypeScript to demonstrate my front-end development capabilities.
-- Includes a responsive design and interactive components.
+- My personal profile repository showcasing my projects and contributions.
+- Includes a detailed README with information about my skills and experiences.
+- Regularly updated with new projects and achievements.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -59,9 +59,9 @@
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-- A to-do list application built using React and TypeScript.
-- Features include adding, editing, and deleting tasks, with a clean and intuitive user interface.
-- Demonstrates the use of state management and component-based architecture.
+- A to-do list application built with React and TypeScript.
+- Features include adding, editing, and deleting tasks with real-time updates.
+- Implemented using modern web development practices and tools.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
@@ -74,9 +74,7 @@
 
 ## 🏆 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rithunath69&theme=radical" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rithunath69=radical)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rithunath69&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
@@ -100,16 +98,16 @@
   <a href="https://github.com/Rithunath69" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/rithunath69/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/rithunath69" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/rithunath69/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:Rithunath69@gmail.com" target="_blank">
+  <a href="mailto:Rithunath69" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
