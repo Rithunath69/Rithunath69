@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-🌟 As a QA Engineer, I specialize in ensuring the quality and reliability of software products through rigorous testing and validation processes.
+🌟 Passionate QA Engineer with a strong background in software testing and quality assurance. Skilled in designing and executing test plans, automating test cases, and ensuring the reliability and performance of software applications.
 
-💻 I have experience in manual and automated testing, test case design, and defect tracking. My goal is to identify and resolve issues to deliver high-quality software.
+💻 Proficient in various testing methodologies, including manual testing, automated testing, and performance testing. Experienced in using tools like Selenium, JIRA, and TestRail.
 
-🔭 I am passionate about continuous improvement and staying updated with the latest testing tools and methodologies.
+🔭 Currently focused on improving testing processes and enhancing software quality through innovative testing strategies and tools.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -24,32 +24,32 @@
 
 ## 🛠️ Technologies & Tools
 
-![Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,express,mongodb,python,javascript,java,postgres,html,css,git,github,docker)
+![Skills](https://skillicons.dev/icons?i=React,Node.js,pandas,)
 
 ---
 
 ## 🚀 My Projects
 
-### 🌟 [Landing Lunar -Ai Model | Hugging Face, Google Colab Dec. 2024
+### 🌟 Landing Lunar - Ai Model | Hugging Face, Google Colab Dec. 2024
 Developed a reinforcement learning model using Deep Q-Learning in PyTorch to simulate optimal lunar landings in the LunarLander-v3 environment. Designed and trained a neural network to make autonomous landing decisions through reward-based learning.
 
 **Tech Stack:**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9D00?logo=huggingface&logoColor=white)
 
 ---
 
-### 🌟 [Web Scraping Alibaba Website | Selenium (Python) Sep. 2025
+### 🌟 Web Scraping Alibaba Website | Selenium (Python) Sep. 2025
 Written a Selenium script to web scrape required data from the Alibaba website, which is rendered dynamically. Used Selenium stealth mode and created a user agent to avoid bot detection.
 
 **Tech Stack:**
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 
 ---
 
-### 🌟 [College Event Handling Website | React, JavaScript, Express, MongoDB Aug. 2023
+### 🌟 College Event Handling Website | React, JavaScript, Express, MongoDB Aug. 2023
 The College Event Handling Website is a platform for managing and organizing college events. It allows event organizers/teachers to create and manage events, while students can easily browse and register for upcoming events.
 
 **Tech Stack:**
@@ -97,7 +97,7 @@ The College Event Handling Website is a platform for managing and organizing col
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:rithunathtpc2024@gmail.com" target="_blank">
+  <a href="rithunathtpc2024@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
