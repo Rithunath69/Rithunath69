@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-🌟 Passionate QA Engineer with a strong background in software testing and quality assurance. Skilled in designing and executing test plans, automating test cases, and ensuring the reliability and performance of software applications.
+🌟 As a dedicated QA Engineer, I specialize in ensuring the quality and reliability of software applications. My expertise lies in designing and executing comprehensive test plans, automating test cases, and collaborating with development teams to identify and resolve defects.
 
-💻 Proficient in various testing methodologies, including manual testing, automated testing, and performance testing. Experienced in using tools like Selenium, JIRA, and TestRail.
+💻 I have a strong background in manual and automated testing, with a focus on web applications and mobile apps. My toolkit includes various testing frameworks and tools such as Selenium, JIRA, and TestNG.
 
-🔭 Currently focused on improving testing processes and enhancing software quality through innovative testing strategies and tools.
+🔭 I am passionate about staying updated with the latest trends and technologies in the QA field. I enjoy working on challenging projects and continuously improving my skills to deliver high-quality software.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -24,24 +24,26 @@
 
 ## 🛠️ Technologies & Tools
 
-![Skills](https://skillicons.dev/icons?i=React,Node.js,pandas,)
+![Skills](https://skillicons.dev/icons?i=selenium,jira,testng,postman,git,github,docker)
 
 ---
 
 ## 🚀 My Projects
 
 ### 🌟 Landing Lunar - Ai Model | Hugging Face, Google Colab Dec. 2024
-Developed a reinforcement learning model using Deep Q-Learning in PyTorch to simulate optimal lunar landings in the LunarLander-v3 environment. Designed and trained a neural network to make autonomous landing decisions through reward-based learning.
+- Developed a reinforcement learning model using Deep Q-Learning in PyTorch to simulate optimal lunar landings in the LunarLander-v3 environment.
+- Designed and trained a neural network to make autonomous landing decisions through reward-based learning.
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9D00?logo=huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6F61?logo=huggingface&logoColor=white)
 
 ---
 
 ### 🌟 Web Scraping Alibaba Website | Selenium (Python) Sep. 2025
-Written a Selenium script to web scrape required data from the Alibaba website, which is rendered dynamically. Used Selenium stealth mode and created a user agent to avoid bot detection.
+- Written a Selenium script to web scrape required data from the Alibaba website, which is rendered dynamically.
+- Used Selenium stealth mode and created a user agent to avoid bot detection.
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -50,7 +52,8 @@ Written a Selenium script to web scrape required data from the Alibaba website, 
 ---
 
 ### 🌟 College Event Handling Website | React, JavaScript, Express, MongoDB Aug. 2023
-The College Event Handling Website is a platform for managing and organizing college events. It allows event organizers/teachers to create and manage events, while students can easily browse and register for upcoming events.
+- The College Event Handling Website is a platform for managing and organizing college events.
+- Allows event organizers/Teachers to create and manage events, while students can easily browse and register for upcoming events.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -97,7 +100,7 @@ The College Event Handling Website is a platform for managing and organizing col
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="rithunathtpc2024@gmail.com" target="_blank">
+  <a href="mailto:rithunathtpc2024@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
