@@ -10,15 +10,15 @@
 
 ## 👨‍💻 About Me
 
-🌟 As a QA Engineer, I specialize in ensuring the quality and reliability of software applications through rigorous testing and quality assurance practices. My expertise lies in automating test cases, conducting manual testing, and utilizing various testing tools to identify and resolve defects efficiently.
+🌟 As a QA Engineer, I am dedicated to ensuring the quality and reliability of software products through meticulous testing and validation processes. My expertise lies in designing and executing test plans, automating test cases, and collaborating with development teams to identify and resolve issues efficiently.
 
-💻 I have a strong background in software development and testing, with a focus on creating robust and scalable solutions. My technical skills include proficiency in various programming languages, testing frameworks, and continuous integration tools.
+💻 I have a strong background in software testing methodologies, including manual and automated testing, and have experience with various testing tools and frameworks.
 
-🔭 I am passionate about staying updated with the latest trends and technologies in the QA field and continuously enhancing my skills to deliver high-quality software products.
+🔭 I am passionate about staying updated with the latest trends and technologies in the QA field and continuously improving my skills to deliver high-quality software solutions.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
-📫 How to reach me: [rithunathtpc2024@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rithunathtpc2024@gmail.com)
+📫 How to reach me: [rithunathtpc2024@gmail.com](mailto:rithunathtpc2024@gmail.com)
 
 ---
 
@@ -30,37 +30,29 @@
 
 ## 🚀 My Projects
 
-### 🌟 Landing Lunar -Ai Model | hugging face, google Colab Dec. 2024
- Developed a reinforcement learning model using Deep Q-Learning in PyTorch to simulate optimal lunar landings in
-the LunarLander-v3 environment. Designed and trained a neural network to make autonomous landing decisions
-through reward-based learning.
+### 🌟 Landing Lunar -Ai Model | Hugging Face, Google Colab Dec. 2024
+Developed a reinforcement learning model using Deep Q-Learning in PyTorch to simulate optimal lunar landings in the LunarLander-v3 environment. Designed and trained a neural network to make autonomous landing decisions through reward-based learning.
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9D00?logo=huggingface&logoColor=white)
+- **Tech Stack:**
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9D00?logo=huggingface&logoColor=white)
+  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 
----
+### 🌟 Web Scraping Alibaba Website | Selenium (Python) Sep. 2025
+Written a Selenium script to webscrape required data from the Alibaba website, which is rendered dynamically. Used Selenium stealth mode and created a user agent to avoid bot detection.
 
-### 🌟 Web scraping Alibaba website | Selenium(pytthon) Sep. 2025
- Written selenium script to webscrape required data from alibaba website which is rendered dynamically. Used
-selenium stealth mode and created a user agent inorder to avoid bot detection.
+- **Tech Stack:**
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+### 🌟 College Event Handling Website | React, JavaScript, Express, MongoDB Aug. 2023
+The College Event Handling Website is a platform for managing and organizing college events. It allows event organizers/teachers to create and manage events, while students can easily browse and register for upcoming events.
 
----
-
-### 🌟 College Event Handling Website | React,javascript,Express,MongoDB Aug. 2023
- The College Event Handling Website is a platform for managing and organizing college events. It allows event
-organizers/Teacher to create and manage events, while students can easily browse and register for upcoming events.
-
-**Tech Stack:**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- **Tech Stack:**
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
