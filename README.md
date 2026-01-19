@@ -3,18 +3,18 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media3.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="500">
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🌟 I am a dedicated QA Engineer with a strong background in software testing and quality assurance. My expertise lies in designing and executing comprehensive test plans, identifying defects, and ensuring the reliability and performance of software applications.
+🌟 As a dedicated QA Engineer, I specialize in ensuring software quality and reliability through meticulous testing and validation processes.
 
-💻 I have a solid understanding of various testing methodologies, including manual testing, automated testing, and performance testing. I am proficient in using tools like Selenium, JIRA, and TestRail to streamline the testing process and improve efficiency.
+💻 My expertise lies in designing and executing comprehensive test plans, identifying defects, and collaborating with development teams to deliver high-quality products.
 
-🔭 I am passionate about continuous learning and staying updated with the latest trends and technologies in the QA field. I enjoy collaborating with cross-functional teams to deliver high-quality software products.
+🔭 I am passionate about continuous improvement and staying updated with the latest QA tools and methodologies.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -24,52 +24,43 @@
 
 ## 🛠️ Technologies & Tools
 
-![Skills](https://skillicons.dev/icons?i=selenium,jira,testrail,python,javascript,java,postgres,html,github,docker)
+![Skills](https://skillicons.dev/icons?i=selenium,junit,testng,postman,jenkins,git,github,python,java,javascript,html,css)
 
 ---
 
 ## 🚀 My Projects
 
 ### 🌟 Landing Lunar -Ai Model | Hugging Face, Google Colab Dec. 2024
-Developed a reinforcement learning model using Deep Q-Learning in PyTorch to simulate optimal lunar landings in the LunarLander-v3 environment.
-- Designed and trained a neural network to make autonomous landing decisions through reward-based learning.
-- Utilized Hugging Face for model deployment and Google Colab for experimentation.
+Developed a reinforcement learning model using Deep Q-Learning in PyTorch to simulate optimal lunar landings in the LunarLander-v3 environment. Designed and trained a neural network to make autonomous landing decisions through reward-based learning.
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9D00?logo=huggingface&logoColor=white)
-
----
+- **Tech Stack:**
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+  - ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9D00?logo=huggingface&logoColor=white)
 
 ### 🌟 Web Scraping Alibaba Website | Selenium (Python) Sep. 2025
-Written a Selenium script to web scrape required data from the Alibaba website, which is rendered dynamically.
-- Utilized Selenium stealth mode and created a user agent to avoid bot detection.
-- Extracted and processed data efficiently for further analysis.
+Written a Selenium script to web scrape required data from the Alibaba website, which is rendered dynamically. Used Selenium stealth mode and created a user agent to avoid bot detection.
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-
----
+- **Tech Stack:**
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 
 ### 🌟 College Event Handling Website | React, JavaScript, Express, MongoDB Aug. 2023
-The College Event Handling Website is a platform for managing and organizing college events.
-- Allows event organizers/teachers to create and manage events.
-- Enables students to easily browse and register for upcoming events.
+The College Event Handling Website is a platform for managing and organizing college events. It allows event organizers/teachers to create and manage events, while students can easily browse and register for upcoming events.
 
-**Tech Stack:**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- **Tech Stack:**
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
 ## 🏆 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rithunath69&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithunath69&layout=compact&langs_count=8&theme=radical" alt="Top Languages" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithunath69&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithunath69&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
