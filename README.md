@@ -3,22 +3,24 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw0bmE1czd3YXEydjB2Z3VycDg0ejZweGgwYXNsZmx1anJhaXpucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" width="500">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh1eTYzeTBzMXR0cGNxOXRtOGpqeG1tbmIxN29uNXV2b2RjajNrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🌟 As a dedicated QA Engineer, I specialize in ensuring the quality and reliability of software products. My expertise lies in designing and executing comprehensive test plans, identifying defects, and collaborating with development teams to deliver high-quality software solutions.
+🌟 I am a dedicated QA Engineer with a strong background in software testing and quality assurance. My expertise lies in designing and executing comprehensive test plans, identifying defects, and ensuring the reliability and performance of software applications.
 
-💻 I have a strong background in manual and automated testing, with a focus on improving test coverage and efficiency. I am proficient in various testing tools and frameworks, including Selenium, JIRA, and TestRail.
+💻 I have experience working with various testing frameworks and tools such as Selenium, JUnit, and TestNG. I am proficient in both manual and automated testing methodologies.
 
-🔭 I am passionate about staying updated with the latest industry trends and best practices in software testing. I enjoy working on challenging projects and continuously learning new skills to enhance my testing capabilities.
+🔭 I am passionate about continuous improvement and staying updated with the latest trends and technologies in the QA field. I enjoy collaborating on open-source projects, participating in hackathons, and exploring innovative tech ideas.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
-📫 How to reach me: [rithunathtpc2024@gmail.com](mailto:rithunathtpc2024@gmail.com)
+📫 How to reach me: [rithunathtpc2024@gmail.com]
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rithunathtpc2024@gmail.com">
+</a>
 
 ---
 
@@ -31,9 +33,7 @@
 ## 🚀 My Projects
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
-- Developed a simple tic-tac-toe game using React and TypeScript.
-- Implemented game logic and user interface for an engaging user experience.
-- Utilized TypeScript for type safety and better code maintainability.
+A simple tic-tac-toe game built using React and TypeScript. This project demonstrates my ability to create interactive web applications with a focus on type safety and modern JavaScript practices.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -45,9 +45,7 @@
 ---
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
-- Personal GitHub profile showcasing various projects and contributions.
-- Includes a portfolio of projects developed using React and TypeScript.
-- Provides insights into my coding style, problem-solving skills, and project management.
+My personal GitHub profile showcasing various projects and contributions. This repository includes a collection of my work, demonstrating my skills in web development, software testing, and more.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -59,9 +57,7 @@
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-- Developed a Todo application using React and TypeScript.
-- Implemented CRUD operations for managing tasks.
-- Focused on creating a user-friendly interface and ensuring type safety.
+A simple To-Do application built with React and TypeScript. This project helps users manage their tasks efficiently, showcasing my ability to create user-friendly interfaces and manage state effectively.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
