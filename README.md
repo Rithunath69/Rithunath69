@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-🌟 As a QA Engineer, I am dedicated to ensuring the quality and reliability of software products through meticulous testing and validation processes. My expertise lies in designing and executing test plans, automating test cases, and collaborating with development teams to identify and resolve issues efficiently.
+🌟 I am a dedicated QA Engineer with a strong background in software testing and quality assurance. My expertise lies in ensuring the reliability and performance of software applications through meticulous testing and debugging processes.
 
-💻 I have a strong background in software testing methodologies, including manual and automated testing, and have experience with various testing tools and frameworks.
+💻 Proficient in various testing methodologies, including manual and automated testing, I have a keen eye for detail and a passion for identifying and resolving bugs efficiently.
 
-🔭 I am passionate about staying updated with the latest trends and technologies in the QA field and continuously improving my skills to deliver high-quality software solutions.
+🔭 I am currently exploring new tools and techniques to enhance my QA skills and contribute to innovative projects.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -24,35 +24,39 @@
 
 ## 🛠️ Technologies & Tools
 
-![Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,express,mongodb,python,javascript,java,postgres,html,github,docker,pandas)
+![Skills](https://skillicons.dev/icons?i=python,selenium,postgres,html,github,docker,java,typescript,nodejs,express,mongodb,javascript)
 
 ---
 
 ## 🚀 My Projects
 
-### 🌟 Landing Lunar -Ai Model | Hugging Face, Google Colab Dec. 2024
+### 🌟 Landing Lunar -Ai Model | hugging face, google Colab Dec. 2024
 Developed a reinforcement learning model using Deep Q-Learning in PyTorch to simulate optimal lunar landings in the LunarLander-v3 environment. Designed and trained a neural network to make autonomous landing decisions through reward-based learning.
 
-- **Tech Stack:**
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF9D00?logo=huggingface&logoColor=white)
-  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+**Tech Stack:**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 
-### 🌟 Web Scraping Alibaba Website | Selenium (Python) Sep. 2025
-Written a Selenium script to webscrape required data from the Alibaba website, which is rendered dynamically. Used Selenium stealth mode and created a user agent to avoid bot detection.
+---
 
-- **Tech Stack:**
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+### 🌟 Web scraping Alibaba website | Selenium(pytthon) Sep. 2025
+Written selenium script to webscrape required data from alibaba website which is rendered dynamically. Used selenium stealth mode and created a user agent inorder to avoid bot detection.
 
-### 🌟 College Event Handling Website | React, JavaScript, Express, MongoDB Aug. 2023
-The College Event Handling Website is a platform for managing and organizing college events. It allows event organizers/teachers to create and manage events, while students can easily browse and register for upcoming events.
+**Tech Stack:**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 
-- **Tech Stack:**
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+---
+
+### 🌟 College Event Handling Website | React,javascript,Express,MongoDB Aug. 2023
+The College Event Handling Website is a platform for managing and organizing college events. It allows event organizers/Teacher to create and manage events, while students can easily browse and register for upcoming events.
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
