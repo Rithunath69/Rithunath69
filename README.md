@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=QA Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=3000&height=70&duration=8000&lines=QA Engineer" />
 </h1>
 
 <h3 align="center">
@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-🌟 I am a dedicated QA Engineer with a strong background in software testing and quality assurance. My expertise lies in ensuring the reliability and performance of software applications through meticulous testing and debugging processes.
+🌟 As a QA Engineer, I specialize in ensuring the quality and reliability of software products. My expertise lies in designing and executing comprehensive test plans, automating test cases, and collaborating with development teams to identify and resolve defects.
 
-💻 Proficient in various testing methodologies, including manual and automated testing, I have a keen eye for detail and a passion for identifying and resolving bugs efficiently.
+💻 I have a strong background in manual and automated testing, with a focus on web applications and mobile apps. I am proficient in using various testing tools and frameworks to enhance the efficiency of the testing process.
 
-🔭 I am currently exploring new tools and techniques to enhance my QA skills and contribute to innovative projects.
+🔭 Currently, I am working on improving the testing infrastructure for a large-scale e-commerce platform, ensuring seamless user experiences and high performance.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -24,24 +24,24 @@
 
 ## 🛠️ Technologies & Tools
 
-![Skills](https://skillicons.dev/icons?i=python,selenium,postgres,html,github,docker,java,typescript,nodejs,express,mongodb,javascript)
+![Skills](https://skillicons.dev/icons?i=selenium,python,junit,postman,jenkins,git,github,aws)
 
 ---
 
 ## 🚀 My Projects
 
-### 🌟 Landing Lunar -Ai Model | hugging face, google Colab Dec. 2024
+### 🌟 Landing Lunar - Ai Model | Hugging Face, Google Colab Dec. 2024
 Developed a reinforcement learning model using Deep Q-Learning in PyTorch to simulate optimal lunar landings in the LunarLander-v3 environment. Designed and trained a neural network to make autonomous landing decisions through reward-based learning.
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6F61?logo=huggingface&logoColor=white)
 
 ---
 
-### 🌟 Web scraping Alibaba website | Selenium(pytthon) Sep. 2025
-Written selenium script to webscrape required data from alibaba website which is rendered dynamically. Used selenium stealth mode and created a user agent inorder to avoid bot detection.
+### 🌟 Web Scraping Alibaba Website | Selenium (Python) Sep. 2025
+Written a Selenium script to web scrape required data from the Alibaba website, which is rendered dynamically. Used Selenium stealth mode and created a user agent to avoid bot detection.
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -49,8 +49,8 @@ Written selenium script to webscrape required data from alibaba website which is
 
 ---
 
-### 🌟 College Event Handling Website | React,javascript,Express,MongoDB Aug. 2023
-The College Event Handling Website is a platform for managing and organizing college events. It allows event organizers/Teacher to create and manage events, while students can easily browse and register for upcoming events.
+### 🌟 College Event Handling Website | React, JavaScript, Express, MongoDB Aug. 2023
+The College Event Handling Website is a platform for managing and organizing college events. It allows event organizers/Teachers to create and manage events, while students can easily browse and register for upcoming events.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -97,7 +97,7 @@ The College Event Handling Website is a platform for managing and organizing col
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="rithunathtpc2024@gmail.com" target="_blank">
+  <a href="mailto:rithunathtpc2024@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
