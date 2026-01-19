@@ -1,20 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=3000&height=70&duration=8000&lines=QA Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=QA%20Engineer" />
 </h1>
 
 <h3 align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media3.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="500">
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🌟 As a QA Engineer, I specialize in ensuring the quality and reliability of software products. My expertise lies in designing and executing comprehensive test plans, automating test cases, and collaborating with development teams to identify and resolve defects.
+🌟 As a dedicated QA Engineer, I specialize in ensuring software quality through meticulous testing and validation processes. My expertise lies in designing and executing comprehensive test plans, identifying defects, and collaborating with development teams to deliver high-quality products.
 
-💻 I have a strong background in manual and automated testing, with a focus on web applications and mobile apps. I am proficient in using various testing tools and frameworks to enhance the efficiency of the testing process.
+💻 My technical background includes proficiency in various testing tools and methodologies, ensuring that software meets the highest standards of performance, reliability, and security.
 
-🔭 Currently, I am working on improving the testing infrastructure for a large-scale e-commerce platform, ensuring seamless user experiences and high performance.
+🔭 I am passionate about continuous improvement and staying updated with the latest trends and technologies in the QA field. I enjoy working on complex projects and contributing to innovative solutions.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
@@ -24,33 +24,46 @@
 
 ## 🛠️ Technologies & Tools
 
-![Skills](https://skillicons.dev/icons?i=selenium,python,junit,postman,jenkins,git,github,aws)
+![Skills](https://skillicons.dev/icons?i=selenium,junit,testng,postman,jenkins,git,github,java,python,sql)
 
 ---
 
 ## 🚀 My Projects
 
-### 🌟 Landing Lunar - Ai Model | Hugging Face, Google Colab Dec. 2024
+### 🌟 Landing Lunar -Ai Model | Hugging Face, Google Colab Dec. 2024
 Developed a reinforcement learning model using Deep Q-Learning in PyTorch to simulate optimal lunar landings in the LunarLander-v3 environment. Designed and trained a neural network to make autonomous landing decisions through reward-based learning.
+
+- 🔍 **Testing**: Implemented unit tests using PyTest to ensure the neural network's accuracy and reliability.
+- 🛠️ **Automation**: Automated the training process using Jenkins to streamline the development workflow.
+- 📊 **Data Analysis**: Utilized Google Colab for data visualization and analysis to optimize the model's performance.
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6F61?logo=huggingface&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ---
 
 ### 🌟 Web Scraping Alibaba Website | Selenium (Python) Sep. 2025
 Written a Selenium script to web scrape required data from the Alibaba website, which is rendered dynamically. Used Selenium stealth mode and created a user agent to avoid bot detection.
 
+- 🔍 **Testing**: Conducted manual and automated testing to ensure the script's accuracy and reliability.
+- 🛠️ **Automation**: Automated the web scraping process using Jenkins to handle large datasets efficiently.
+- 📊 **Data Analysis**: Analyzed the scraped data using Python libraries to derive meaningful insights.
+
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 
 ---
 
 ### 🌟 College Event Handling Website | React, JavaScript, Express, MongoDB Aug. 2023
 The College Event Handling Website is a platform for managing and organizing college events. It allows event organizers/Teachers to create and manage events, while students can easily browse and register for upcoming events.
+
+- 🔍 **Testing**: Implemented end-to-end testing using Cypress to ensure the website's functionality and user experience.
+- 🛠️ **Automation**: Automated the deployment process using GitHub Actions to streamline the CI/CD pipeline.
+- 📊 **Data Analysis**: Utilized MongoDB to store and manage event data efficiently.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -88,13 +101,13 @@ The College Event Handling Website is a platform for managing and organizing col
   <a href="https://github.com/Rithunath69" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/rithunath69/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://twitter.com/rithunath69" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/rithunath69/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:rithunathtpc2024@gmail.com" target="_blank">
