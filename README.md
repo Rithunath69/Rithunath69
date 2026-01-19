@@ -1,26 +1,24 @@
-# Rithunath69
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=BTech%20student%20with%20passion%20for%20coding" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=QA%20Engineer" />
 </h1>
 
 <h3 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9pYjhyc2p4cWF1eWltYWVlNWI1MjM5dnk1MWY2d2Zud2k0OTRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odTTszSU3M3pb5I9eW/giphy.gif" width="500">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw0bmE1czd3YXEydjB2Z3VycDg0ejZweGgwYXNsZmx1anJhaXpucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" width="500">
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in technology. I am constantly seeking opportunities to learn and grow in the field of software development.
+🌟 As a dedicated QA Engineer, I specialize in ensuring the quality and reliability of software products. My expertise lies in designing and executing comprehensive test plans, identifying defects, and collaborating with development teams to deliver high-quality software solutions.
 
-💻 I have a solid foundation in various programming languages and technologies, and I enjoy working on projects that challenge me to expand my skill set.
+💻 I have a strong background in manual and automated testing, with a focus on improving test coverage and efficiency. I am proficient in various testing tools and frameworks, including Selenium, JIRA, and TestRail.
 
-🔭 Currently, I am exploring new technologies and frameworks to enhance my development capabilities. I am open to collaborating on open-source projects, hackathons, and innovative tech ideas.
+🔭 I am passionate about staying updated with the latest industry trends and best practices in software testing. I enjoy working on challenging projects and continuously learning new skills to enhance my testing capabilities.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
-📫 How to reach me: [Rithunath69@gmail.com](mailto:Rithunath69@gmail.com)
+📫 How to reach me: [rithunathtpc2024@gmail.com](mailto:rithunathtpc2024@gmail.com)
 
 ---
 
@@ -33,8 +31,8 @@
 ## 🚀 My Projects
 
 ### 🌟 [React-Typescript-Project-Tic-Tac-Toe](https://github.com/Rithunath69/React-Typescript-Project-Tic-Tac-Toe)
-- A simple tic-tac-toe game built using React and TypeScript.
-- Implemented game logic to ensure smooth gameplay.
+- Developed a simple tic-tac-toe game using React and TypeScript.
+- Implemented game logic and user interface for an engaging user experience.
 - Utilized TypeScript for type safety and better code maintainability.
 
 **Tech Stack:**
@@ -47,9 +45,9 @@
 ---
 
 ### 🌟 [Rithunath69](https://github.com/Rithunath69/Rithunath69)
-- Personal profile repository showcasing my projects and contributions.
-- Includes a detailed README with information about my skills and experiences.
-- Regularly updated with new projects and improvements.
+- Personal GitHub profile showcasing various projects and contributions.
+- Includes a portfolio of projects developed using React and TypeScript.
+- Provides insights into my coding style, problem-solving skills, and project management.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -61,9 +59,9 @@
 ---
 
 ### 🌟 [Todo-Rithu-React-Typescript](https://github.com/Rithunath69/Todo-Rithu-React-Typescript)
-- A to-do application built with React and TypeScript.
-- Features include adding, editing, and deleting tasks.
-- Implemented state management for efficient task handling.
+- Developed a Todo application using React and TypeScript.
+- Implemented CRUD operations for managing tasks.
+- Focused on creating a user-friendly interface and ensuring type safety.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
@@ -102,16 +100,16 @@
   <a href="https://github.com/Rithunath69" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/rithunath69/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/rithunath69" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/rithunath69/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:Rithunath69@gmail.com" target="_blank">
+  <a href="rithunathtpc2024@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
